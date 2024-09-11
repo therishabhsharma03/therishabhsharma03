@@ -37,7 +37,7 @@ I'm always looking to contribute to open-source projects and collaborate with fe
 
 ## 🌐 **Connect With Me**
 - GitHub: [therishabhsharma03](https://github.com/therishabhsharma03)
-- LinkedIn: [Rishabh Sharma](https://www.linkedin.com/in/therishabhsharma03/)
+- LinkedIn: [Rishabh Sharma](https://www.linkedin.com/in/rishabhsssharma/)
 
 ---
 
