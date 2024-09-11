@@ -30,8 +30,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a diver
 
 ### 💻 **Repositories**
 Take a look at my [repositories](https://github.com/therishabhsharma03?tab=repositories) for projects on web development, blockchain, and more.  
-A few highlights:
-- **MRIacleMind**
+
 
 ## 📚 **Learning & Growth**
 I'm always looking to contribute to open-source projects and collaborate with fellow developers. Recently, I’ve been diving into blockchain technologies and monitoring solutions. Feel free to reach out if you want to collaborate!
