@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a diver
 - **[Ethereum Deposit Tracker](https://github.com/therishabhsharma03/Luganodes-Task-Ethereum-Deposit-Tracker)**  
   A Node.js-based project for tracking Ethereum Beacon Chain deposits using Infura and notification on Telegram.
   
-- **[Crophecy](https://github.com/therishabhsharma03/crophecy_ml_model)**  
+- **[Crophecy](https://github.com/therishabhsharma03/frontend-v1-main)**  
   A crop prediction platform using ML and Flask.
 
 - **[Emitence Realty](https://github.com/therishabhsharma03/emitence_react2.0.0)**  
