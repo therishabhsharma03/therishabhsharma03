@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a diver
 - **[Crophecy](https://github.com/therishabhsharma03/frontend-v1-main)**  
   A crop prediction platform using ML and Flask.
 
-- **[S3ver](https://github.com:therishabhsharma03/S3ver)**  
+- **[S3ver](https://github.com/therishabhsharma03/S3ver)**  
   Deployment service that streamlines the process of deploying web applications from GitHub repositories to Amazon S3.
 
 ### 🔧 **Tools & Technologies**
