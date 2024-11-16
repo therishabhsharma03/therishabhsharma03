@@ -18,15 +18,10 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a diver
   Deployment service that streamlines the process of deploying web applications from GitHub repositories to Amazon S3.
 
 ### 🔧 **Tools & Technologies**
-- **Languages:** JavaScript, Python, HTML, CSS, Shell
-- **Frameworks & Libraries:** React.js, Node.js, Express.js, Flask
-- **Blockchain:** Web3.js, Ethereum (Sepolia Testnet), Infura
-- **DevOps & Monitoring:** Prometheus, Grafana, Docker
+- **Languages:** Java , JavaScript
+- **Frameworks & Libraries:** React.js, Node.js, Express.js
 - **Databases:** MongoDB, MySQL
 
-### 🏗️ **Open Source Contributions**
-- **[Talawa Admin Portal](https://github.com/therishabhsharma03/talawa-admin)**  
-  Forked and working on admin portal for the Talawa.
 
 ### 💻 **Repositories**
 Take a look at my [repositories](https://github.com/therishabhsharma03?tab=repositories) for projects on web development, blockchain, and more.  
